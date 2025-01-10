@@ -1,1 +1,3 @@
-# Python-Projects-
+# Python-Projects
+
+## Inventory Managment System
